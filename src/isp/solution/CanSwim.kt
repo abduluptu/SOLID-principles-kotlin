@@ -1,4 +1,4 @@
-package isp_4.b_usage_correct
+package isp.solution
 
 // Interface Segregation Principle Correct Usage
 // As we saw in the correct usage example, dividing the system into smaller interfaces and using them where we needed them made it much easier to change the system in the future.

@@ -1,4 +1,4 @@
-package isp_4.a_violation
+package isp.violation
 
 // Interface Segregation Principle Violation
 // When we look at our example, we see that the interface we created contains many methods.

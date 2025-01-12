@@ -1,4 +1,4 @@
-package lsp_3.b_usage_correct
+package lsp.solution
 
 // Liskov Substitution Principle Correct Usage
 // As you can see in this example, all the things we write in the superclass will be valid in the subclasses,

@@ -1,4 +1,4 @@
-package ocp_2.a_violation
+package ocp.violation
 
 // Open/Closed Principle Violation
 // In this example, when we try to add something new to our class,

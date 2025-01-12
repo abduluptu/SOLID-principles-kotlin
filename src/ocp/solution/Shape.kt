@@ -1,4 +1,4 @@
-package ocp_2.b_usage_correct
+package ocp.solution
 
 // Open/Closed Principle Correct Usage
 // As in correct usage, instead of changing the class itself,

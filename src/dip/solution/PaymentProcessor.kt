@@ -1,4 +1,4 @@
-package dip_5.b_usage_correct
+package dip.solution
 
 // Dependency Inversion Principle Correct Usage
 // In the correct usage example, we did not have to implement hard code about our payment methods in our Service class,

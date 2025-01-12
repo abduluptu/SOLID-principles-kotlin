@@ -1,4 +1,4 @@
-package lsp_3.a_violation
+package lsp.violation
 
 // Liskov Substitution Principle Violation:
 // As we saw in this example, the method we wrote in our main class should work properly in its subclasses according to the Liskov principle,

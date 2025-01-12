@@ -1,4 +1,4 @@
-package dip_5.a_violation
+package dip.violation
 
 // Dependency Inversion Principle Violation
 // As we can see in this example, each of our payment methods is processed separately in our Service class in a hard code way.
