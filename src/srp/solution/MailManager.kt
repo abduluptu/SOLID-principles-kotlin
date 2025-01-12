@@ -1,6 +1,6 @@
-package srp_1.b_usage_correct
+package srp.second_solution
 
-import srp_1.a_violation.User
+import srp.first_violation.User
 
 // Single Responsibility Principle Correct Usage:
 // As seen in this example, we divided our System class into specific parts

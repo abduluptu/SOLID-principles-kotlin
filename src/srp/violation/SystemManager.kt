@@ -1,4 +1,4 @@
-package srp_1.a_violation
+package srp.first_violation
 
 // Single Responsibility Principle Violation
 // In this example the System class is trying to handle many different situation at the same time.
